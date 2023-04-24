@@ -1,2 +1,8 @@
-# Daily_Issue
-Archive daily issues
+# Daily-Issue
+
+✍🏻
+매일매일 개발하고 생각하면서 
+궁금한 부분을 기록하고
+부족한 부분을 성찰하고
+공부할 부분을 계획하는!
+
