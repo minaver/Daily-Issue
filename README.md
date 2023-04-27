@@ -8,7 +8,7 @@
 
 
 ## 정리 방법
-1. 매일 개발하고 생각하며 발생하는 궁금증을 Issues에 등록
+1. 매일 개발하고 생각하며 발생하는 궁금증을 [Issues](https://github.com/minaver/Daily-Issue/issues)에 등록
 2. 등록한 이슈를 공부하는 내용을 파일로 정리
 3. 궁금증 해소시 이슈 close
 
